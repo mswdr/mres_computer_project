@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<open>1</open>
+<GroundOverlay>
+<name>SIF_740_2016_09</name>
+<Icon><href>http://homepages.see.leeds.ac.uk/~ee16mas/data/mres/crop/groundnut/kmlref/SIF_740_2016_09/SIF_740_2016_09.png</href></Icon>
+<LatLonBox>
+<west>68.93</west>
+<north>23.095</north>
+<east>72.59</east>
+<south>20.625</south>
+</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -3,13 +3,13 @@
 <Folder>
 <open>1</open>
 <GroundOverlay>
-<name>yield</name>
-<Icon><href>gnut_yield_2011.png</href></Icon>
+<name>groundnut yield kg/ha</name>
+<Icon><href>https://raw.githubusercontent.com/mswdr/mres_computer_project/Data/mres/crop/groundnut/gnut_yield_2011/gnut_yield_2011.png</href></Icon>
 <LatLonBox>
 <west>68.93</west>
-<north>23.095</north>
+<north>23.09</north>
 <east>72.59</east>
-<south>20.625</south>
+<south>20.62</south>
 </LatLonBox>
 </GroundOverlay>
 </Folder>

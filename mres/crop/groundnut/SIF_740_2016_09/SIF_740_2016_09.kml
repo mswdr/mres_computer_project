@@ -3,13 +3,13 @@
 <Folder>
 <open>1</open>
 <GroundOverlay>
-<name>SIF at far red peak (737 nm)</name>
-<Icon><href>SIF_740_2016_09.png</href></Icon>
+<name>SIF_740_2016_09</name>
+<Icon><href>https://raw.githubusercontent.com/mswdr/mres_computer_project/Data/mres/crop/groundnut/SIF_740_2016_09/SIF_740_2016_09.png</href></Icon>
 <LatLonBox>
 <west>68.93</west>
-<north>23.095</north>
+<north>23.09</north>
 <east>72.59</east>
-<south>20.625</south>
+<south>20.62</south>
 </LatLonBox>
 </GroundOverlay>
 </Folder>

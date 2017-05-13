@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+<open>1</open>
+<GroundOverlay>
+<name>yield</name>
+<Icon><href>gnut_yield_2011.png</href></Icon>
+<LatLonBox>
+<west>68.93</west>
+<north>23.095</north>
+<east>72.59</east>
+<south>20.625</south>
+</LatLonBox>
+</GroundOverlay>
+</Folder>
+</kml>

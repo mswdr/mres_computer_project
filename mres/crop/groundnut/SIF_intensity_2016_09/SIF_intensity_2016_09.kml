@@ -17,10 +17,10 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sn_2">
+	<Style id="sh_2">
 		<IconStyle>
 			<color>ff07ff22</color>
-			<scale>2</scale>
+			<scale>2.36364</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
 			</Icon>
@@ -42,6 +42,26 @@
 			<styleUrl>#sh_1</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sn_3">
 		<IconStyle>
 			<color>ff06ff22</color>
@@ -57,10 +77,10 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sh_2">
+	<Style id="sn_2">
 		<IconStyle>
 			<color>ff07ff22</color>
-			<scale>2.36364</scale>
+			<scale>2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
 			</Icon>
@@ -84,56 +104,6 @@
 		<ListStyle>
 			<ItemIcon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<Style id="sn_4">
-		<IconStyle>
-			<color>ff0aff22</color>
-			<scale>2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_3">
-		<IconStyle>
-			<color>ff06ff22</color>
-			<scale>2.36364</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
 			</ItemIcon>
 		</ListStyle>
 	</Style>
@@ -162,6 +132,36 @@
 			<styleUrl>#sh_3</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sh_3">
+		<IconStyle>
+			<color>ff06ff22</color>
+			<scale>2.36364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<color>ff0aff22</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
 	<Folder>
 		<name>SIF_740_2016_09.kml</name>
 		<open>1</open>

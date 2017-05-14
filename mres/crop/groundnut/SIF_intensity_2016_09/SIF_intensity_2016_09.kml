@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>SIF_intensity_2016_09.kmz</name>
-	<open>1</open>
-	<StyleMap id="msn_1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_2">
+	<name>SIF_intensity_2016_09.kml</name>
+	<Style id="sh_1">
 		<IconStyle>
-			<color>ff07ff22</color>
+			<color>ff08ff22</color>
 			<scale>2.36364</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
 			</Icon>
 			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<ListStyle>
 			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
 			</ItemIcon>
 		</ListStyle>
 	</Style>
@@ -43,18 +32,43 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sh_4">
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_3">
 		<IconStyle>
-			<color>ff0aff22</color>
-			<scale>2.36364</scale>
+			<color>ff06ff22</color>
+			<scale>2</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
 			</Icon>
 			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<ListStyle>
 			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<color>ff07ff22</color>
+			<scale>2.36364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
 			</ItemIcon>
 		</ListStyle>
 	</Style>
@@ -88,29 +102,24 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sh_1">
-		<IconStyle>
-			<color>ff08ff22</color>
-			<scale>2.36364</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_3">
+	<StyleMap id="msn_4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_3</styleUrl>
+			<styleUrl>#sn_4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_3</styleUrl>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sh_3">
@@ -128,81 +137,31 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<StyleMap id="msn_2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_30</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_30</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_30">
+	<Style id="sh_4">
 		<IconStyle>
-			<color>ff06ff22</color>
-			<scale>2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_30">
-		<IconStyle>
-			<color>ff06ff22</color>
+			<color>ff0aff22</color>
 			<scale>2.36364</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
 			</Icon>
 			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<ListStyle>
 			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sn_3">
-		<IconStyle>
-			<color>ff06ff22</color>
-			<scale>2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>SIF_740_2016_09.kml</name>
 		<open>1</open>
@@ -232,23 +191,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>70.75,21.75,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>70.18893956177985</longitude>
-				<latitude>21.50326384651768</latitude>
-				<altitude>0</altitude>
-				<heading>2.616055947181684</heading>
-				<tilt>10.94882997879994</tilt>
-				<range>204736.0408191513</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_30</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>69.75484444444444,21.73142877701239,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
